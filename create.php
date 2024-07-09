@@ -1,7 +1,7 @@
 <?php
 include 'functions.php';
 $pdo = pdo_connect();
-
+//aaaa
 if (!empty($_POST))
 {
     $name = $_POST['name'];
